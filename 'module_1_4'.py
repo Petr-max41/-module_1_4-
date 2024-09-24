@@ -1,8 +1,7 @@
 my_string = input('Сколько тебе лет: ')
 print('Привет,',my_string)
-print(len(my_string))
+print(len('41 год'))
 my_string = 'Сколько тебе лет'
-print(len(my_string))
 print(my_string.upper())
 print(my_string.lower())
 print(my_string.replace(' ', ''))
