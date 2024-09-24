@@ -1,7 +1,5 @@
-my_string = input('Сколько тебе лет: ')
-print('Привет,',my_string)
-print(len('41 год'))
-my_string = 'Сколько тебе лет'
+my_string = input('Напишите ваше имя: ')
+print(len(my_string))
 print(my_string.upper())
 print(my_string.lower())
 print(my_string.replace(' ', ''))
